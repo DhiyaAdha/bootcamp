@@ -9,7 +9,8 @@
                     <div class="row">
                         <div class="col-lg-6 col-12 copywriting">
                             <p class="story">
-                                LEARN FROM EXPERT
+                                LEARN FROM EXPERThvhvhvhvh
+                                hvj
                             </p>
                             <h1 class="header">
                                 Start Your <span class="text-purple">Developer <br> Journey</span> Today
